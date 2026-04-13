@@ -11,6 +11,10 @@ Make the line chart stretch across the full width of the dashboard.
 Use the information from the netflix_titles.xlsx file I've uploaded to populate the charts.
 
 **Prompt 2:**
+Present it as an HTML/CSS artifact that shows how the dashboard should look
+Use Chart.js to create the charts, and make sure to include JavaScript whenever necessary to process the CSV file and build the visualizations
+
+**Prompt 3:**
 Use overall filters for categories of Types like year added, release year,rating,type of film,country, category, director, Title search
 
 
