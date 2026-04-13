@@ -8,7 +8,7 @@ The languages used are html, css, java script for charts as per visualization ne
 Analyze this information and suggest 6 key visualizations or metrics that would be most effective for a Pet lovers Dashboard. Explain why each one is valuable.
 Based on the suggestions you have made , create a visual representation of a complete dashboard with interactive elements.
 Make the line chart stretch across the full width of the dashboard.
-Use the information from the CSV file I've uploaded to populate the charts.
+Use the information from the catsvdogs.xlsx file I've uploaded to populate the charts.
 
 **Prompt 2:**
 Present it as an HTML/CSS artifact that shows how the dashboard should look
