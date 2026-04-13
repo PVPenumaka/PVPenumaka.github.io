@@ -17,7 +17,6 @@ Use the information from the CSV file I've uploaded to populate the charts.
 
 **Prompt 3:**
 Use overall filters for categories of Types like year added, release year,rating,type of film,country, category, director, Title search
-Expand charts a little broader or wider based on the roll over of title of states, make it visible but don't make it clumsy. Hide few state names if needed, but on hovering everything should be visible like tool tips etc
 
 
 **End***
