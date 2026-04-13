@@ -11,9 +11,8 @@ Make the line chart stretch across the full width of the dashboard.
 Use the information from the CSV file I've uploaded to populate the charts.
 
 **Prompt 2:**
-Based on the suggestions you have made , create a visual representation of a complete dashboard with interactive elements, especially with pets template.
-Make the line chart stretch across the full width of the dashboard.
-Use the information from the CSV file I've uploaded to populate the charts.
+Present it as an HTML/CSS artifact that shows how the dashboard should look
+Use Chart.js to create the charts, and make sure to include JavaScript whenever necessary to process the CSV file and build the visualizations
 
 **Prompt 3:**
 Use overall filters for categories of Type of Pets and State
